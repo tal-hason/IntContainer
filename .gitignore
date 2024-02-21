@@ -1,0 +1,97 @@
+# Build and dependencies folders
+bin/
+obj/
+packages/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.cache
+*.crash
+*.sln.docstates
+
+# Visual Studio files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.csproj.user
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+*.ipch/
+obj/
+*.pch
+*.obj
+*.vs
+*.bak
+*.cache
+*.ilk
+*.log
+*.tlog
+*.zip
+*.gz
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.sqlite
+*.sqlite3
+*.sln.docstates
+*.suo
+*.user
+*.v12.suo
+*.v2.suo
+*.pfx
+*.publishsettings
+*.shfbproj
+*.resharper
+*.resharper.user
+*.sln.ide
+*.vspscc
+*.vssscc
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.ReSharper*
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Test files
+testresults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Package directories
+bin/
+obj/
