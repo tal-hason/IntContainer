@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 
-namespace TASE.Crypto.TestInit.Service // Updated namespace
+namespace TestInit.Service // Updated namespace
 {
     class Program
     {
